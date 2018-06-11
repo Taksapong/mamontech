@@ -1,18 +1,13 @@
 
 <!DOCTYPE html>
 <html>
-<body>
+<body bgcolor=#F5F035>
 <h1>Test Taksapong-Mamon-Yuwadee</h1>
-  
-<form action="/action_page.php">
-  <label for="male">Male</label>
-  <input type="radio" name="gender" id="male" value="male"><br>
-  <label for="female">Female</label>
-  <input type="radio" name="gender" id="female" value="female"><br>
-  <label for="other">Other</label>
-  <input type="radio" name="gender" id="other" value="other"><br><br>
-  <input type="submit" value="Submit">
-</form>
+  <h1>ESP32 - Web Server</h1>
+  <h2><cite>MR.TAKSAPONG (MAYMYTECH)</cite></h2>
+  <h4>Relay 1 - State: " + relay1State + "</h4>
+  <p>LED #1 <a href=\"on1\"><button>ON</button></a>&nbsp;<a href=\"off1\"><button>OFF</button></a></p>
+  <p>LED #2 <a href=\"on2\"><button>ON</button></a>&nbsp;<a href=\"off2\"><button>OFF</button></a></p>
 
 
 </body>
