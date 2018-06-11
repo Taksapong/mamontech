@@ -13,9 +13,7 @@
   <input type="radio" name="gender" id="other" value="other"><br><br>
   <input type="submit" value="Submit">
 </form>
-<?php
-echo "test PHP";
-?> 
+
 
 </body>
 </html>
